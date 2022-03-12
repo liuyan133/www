@@ -1,5 +1,5 @@
 # epidemic-mapgit 
-home change 
+home change second
 ## Project setup
 ```
 npm install
