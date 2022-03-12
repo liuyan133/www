@@ -1,5 +1,5 @@
-# epidemic-map
-first commit
+# epidemic-mapgit 
+github change 
 ## Project setup
 ```
 npm install
